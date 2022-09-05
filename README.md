@@ -43,7 +43,7 @@ All wiring is configured in the trx4-mixer.ino as macros at the top of the file.
 
 ### Output
 
-- PIN 3: control **the gearingi** servo
+- PIN 3: control **the gearing** servo
 - PIN 5: control **front differential** servo
 - PIN 6: control **back differential** servo
 - PIN 16: control **lights**

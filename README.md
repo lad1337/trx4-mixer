@@ -1,4 +1,4 @@
-# Pramble
+# Preamble
 
 This is based on the works of [kelvineyeone](https://www.hackster.io/kelvineyeone) and his project at https://www.hackster.io/kelvineyeone/read-pwm-decode-rc-receiver-input-and-apply-fail-safe-6b90eb
 
@@ -8,7 +8,7 @@ This is arudino based code for the pro micro to control gear, differentials and 
 
 ## Function
 
-###Channel 1
+### Channel 1
 Channel 1 is designed for a toggle switch on your remote, it activates on high PWM.
 
 

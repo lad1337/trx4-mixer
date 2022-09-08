@@ -10,9 +10,9 @@
 #define WINCH_PIN 10
 
 // output
+#define GEAR_PIN 3
 #define DIFFERENTIAL_FRONT_PIN 5
 #define DIFFERENTIAL_BACK_PIN 6
-#define GEAR_PIN 3
 #define LIGHT_PIN 16
 #define WINCH_IN_PIN A2
 #define WINCH_OUT_PIN A3

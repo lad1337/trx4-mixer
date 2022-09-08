@@ -48,7 +48,11 @@ All wiring is configured in the trx4-mixer.ino as macros at the top of the file.
 - PIN 6: control **back differential** servo
 - PIN 16: control **lights**
 
-Note: light pin is simply setting the pin the HIGH as it is assumming you are running a Traxxas TRX8028
+Note: light pin is simply set to HIGH as it is assumming you are running a Traxxas TRX8028
 
+### Other
+
+- PIN RAW: any positive from the receiver
+- PIN GND: any negaive from the receiver
 
 ![example](example.jpg)
